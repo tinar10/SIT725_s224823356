@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start:2.2p": "node 2.2P/server.js",
+    "start:3.2p": "node 3.2P/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
